@@ -1,4 +1,4 @@
-# ../queue_based_async_logger.py
+# utils/queue_based_async_logger.py
 
 import logging
 import logging.handlers
